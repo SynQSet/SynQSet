@@ -1,8 +1,4 @@
-# SynQSet
-
-![SynQSet Logo](link-to-logo.png)
-
-## About
+# ![SynQSet Logo](docs/assets/logo-word.png)
 
 [SynQSet](https://github.com/SynQSet/SynQSet) is a tool to simplify and speed up local and cloud-based development setups.
 
